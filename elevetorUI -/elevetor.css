@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 390px;
+  background-color: #919498;
+  opacity: 0.8;
+  height: 500px;
+  border-radius: 15px;
+  margin-top: 200px;
+}
+.elevetor-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #47515c;
+  border-radius: 20px;
+  box-shadow: 0 4px 9px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
+.elevetor-header-img {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+.elevetor-header-text {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+.elevetor-numbers {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Satırlar arasındaki boşluk */
+}
+.number-block-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.number-block-1 span {
+  color: #ececec;
+  border: 1px solid #ececec;
+  width: 60px;
+  border-radius: 60px;
+  height: 60px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 35px;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
+
+.number-block-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.number-block-2 span {
+  color: #ececec;
+  border: 1px solid #ececec;
+  width: 60px;
+  border-radius: 60px;
+  height: 60px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 35px;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
+.number-block-3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.number-block-3 span {
+  color: #ececec;
+  border: 1px solid #ececec;
+  width: 60px;
+  border-radius: 60px;
+  height: 60px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 35px;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
+.number-block-4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.number-block-4 span {
+  color: #ececec;
+  border: 1px solid #ececec;
+  width: 60px;
+  border-radius: 60px;
+  height: 60px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 35px;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
+.number-block-5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.number-block-5 span {
+  color: #ececec;
+  border: 1px solid #ececec;
+  width: 60px;
+  border-radius: 60px;
+  height: 60px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 35px;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
